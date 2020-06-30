@@ -23,6 +23,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ArrayExercise.py" />
+    <Compile Include="BigONotationExercises.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DictionaryExercises.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="StringExercises.py">
       <SubType>Code</SubType>
     </Compile>
